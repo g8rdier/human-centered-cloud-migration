@@ -14,7 +14,7 @@ This framework combines human-centered design principles with AI-powered tools t
 - **Michael**: Compliance Manager (needs transparency and auditability)
 - **Sarah**: Cloud Engineer (needs efficiency and automation)
 
-[📖 Detailed Persona Profiles](docs/framework/personas.md)
+[📖 Detailed Persona Profiles](docs/frameworks/personas.md)
 
 ## 🤖 AI-Powered Tools Suite
 1. **DORA Compliance Translator** - Converts technical configurations into audit-ready compliance language

@@ -72,7 +72,6 @@ Perfect for:
 
 ### Visual Architecture
 - [🔄 Complete System Diagram](diagrams/complete-system.svg) - Full framework visualization
-- [👤 Persona Journeys](diagrams/personas-journey.mmd) - User experience flows
 
 ## 🤝 Contributing
 We welcome contributions from the banking and cloud migration community!

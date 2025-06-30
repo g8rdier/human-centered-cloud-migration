@@ -1,4 +1,4 @@
-a# Human-Centered Cloud Migration Framework 🏛️☁️
+# Human-Centered Cloud Migration Framework 🏛️☁️
 
 > Design Thinking + AI-powered tools for DORA-compliant banking cloud migration
 

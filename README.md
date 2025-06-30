@@ -8,7 +8,7 @@ Traditional banks face significant delays in cloud migrations due to communicati
 ## 💡 Our Solution
 This framework combines human-centered design principles with AI-powered tools to create seamless, DORA-compliant cloud migrations that work for both technical and compliance teams.
 
-![Complete System](diagrams/diagram.svg)
+![Complete System](diagrams/complete-system.svg)
 
 ## 👥 Core Personas
 - **Michael**: Compliance Manager (needs transparency and auditability)

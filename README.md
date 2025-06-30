@@ -23,7 +23,7 @@ This framework combines human-centered design principles with AI-powered tools t
 4. **Migration Sandbox** - Safe testing environment for worst-case scenarios
 5. **MigraMentor Chatbot** - 24/7 support with banking-specific knowledge
 
-[🔧 Complete AI Tools Architecture](docs/framework/ai-tools-overview.md)
+[🔧 Complete AI Tools Architecture](docs/frameworks/ai-tools-overview.md)
 
 ## 🏛️ Governance Framework
 - **Ethical AI Governance Board** - Ensures bias-free AI decisions
@@ -59,9 +59,9 @@ Perfect for:
 ## 📖 Documentation
 
 ### Framework Core
-- [👥 Detailed Personas](docs/framework/personas.md) - Michael & Sarah profiles with goals, pain points, and daily challenges
-- [⚙️ Migration Workflow](docs/framework/migration-process.md) - Complete 9-phase process with decision gates
-- [🤖 AI Tools Architecture](docs/framework/ai-tools-overview.md) - Technical specifications and integration details
+- [👥 Detailed Personas](docs/frameworks/personas.md) - Michael & Sarah profiles with goals, pain points, and daily challenges
+- [⚙️ Migration Workflow](docs/frameworks/migration-process.md) - Complete 9-phase process with decision gates
+- [🤖 AI Tools Architecture](docs/frameworks/ai-tools-overview.md) - Technical specifications and integration details
 
 ### Practical Tools
 - [📊 Readiness Checklist](tools/assessment/readiness-checklist.md) - Self-assessment for institutional readiness

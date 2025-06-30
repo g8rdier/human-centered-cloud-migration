@@ -77,7 +77,7 @@ Perfect for:
 ## 🤝 Contributing
 We welcome contributions from the banking and cloud migration community!
 
-Open an [Issue](../../issues) to:
+Open an [Issue](../../issues) to:   
 - 💡 Share your banking migration experiences
 - 🔧 Suggest improvements to personas or workflows  
 - 🌍 Contribute compliance requirements for different regions
